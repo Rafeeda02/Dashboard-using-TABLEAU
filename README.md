@@ -72,7 +72,7 @@ The dashboard helps to:
 
 ## 🖼️ Dashboard Preview
 *(Insert your dashboard screenshot here)*  
-![Pizza Sales Dashboard](Dashboard_Screenshot.png)
+![Pizza Sales Dashboard](pizzasalesdashboard.png)
 
 ---
 
