@@ -71,7 +71,6 @@ The dashboard helps to:
 ---
 
 ## 🖼️ Dashboard Preview
-*(Insert your dashboard screenshot here)*  
 ![Pizza Sales Dashboard](pizzasalesdashboard.png)
 
 ---
